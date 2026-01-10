@@ -15,7 +15,7 @@
 	</tr>
 </table>
 
-<p>1. <a href="https://github.com/NianBroken/ZFCheckScores/fork">点击 Fork</a></p>
+<p>1. <a href="https://github.com/coolarec/ZFCheckScores/fork">点击 Fork</a></p>
 
 <p>2. 点击 Create fork</p>
 
